@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Jafir",
+    "email": "jafir@example.com",
+    "status": "active",
+    "city": "Chennai",
+    "orders": [
+      {
+        "order_id": 101,
+        "product": "Laptop",
+        "amount": 75000,
+        "status": "delivered"
+      },
+      {
+        "order_id": 102,
+        "product": "Keyboard",
+        "amount": 2500,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ahmed",
+    "email": "ahmed@example.com",
+    "status": "active",
+    "city": "Bangalore",
+    "orders": [
+      {
+        "order_id": 103,
+        "product": "Monitor",
+        "amount": 18000,
+        "status": "delivered"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Rahul",
+    "email": "rahul@example.com",
+    "status": "inactive",
+    "city": "Mumbai",
+    "orders": []
+  },
+  {
+    "id": 4,
+    "name": "Priya",
+    "email": "priya@example.com",
+    "status": "active",
+    "city": "Hyderabad",
+    "orders": [
+      {
+        "order_id": 104,
+        "product": "Smartphone",
+        "amount": 45000,
+        "status": "delivered"
+      },
+      {
+        "order_id": 105,
+        "product": "Wireless Earbuds",
+        "amount": 3500,
+        "status": "shipped"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Vikram",
+    "email": "vikram@example.com",
+    "status": "active",
+    "city": "Delhi",
+    "orders": [
+      {
+        "order_id": 106,
+        "product": "Smartwatch",
+        "amount": 12000,
+        "status": "cancelled"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ananya",
+    "email": "ananya@example.com",
+    "status": "active",
+    "city": "Pune",
+    "orders": [
+      {
+        "order_id": 107,
+        "product": "Tablet",
+        "amount": 32000,
+        "status": "delivered"
+      },
+      {
+        "order_id": 108,
+        "product": "Stylus Pen",
+        "amount": 4500,
+        "status": "delivered"
+      },
+      {
+        "order_id": 109,
+        "product": "Tablet Case",
+        "amount": 1500,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Karthik",
+    "email": "karthik@example.com",
+    "status": "inactive",
+    "city": "Coimbatore",
+    "orders": []
+  },
+  {
+    "id": 8,
+    "name": "Sneha",
+    "email": "sneha@example.com",
+    "status": "active",
+    "city": "Kolkata",
+    "orders": [
+      {
+        "order_id": 110,
+        "product": "Gaming Mouse",
+        "amount": 3800,
+        "status": "shipped"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Rohan",
+    "email": "rohan@example.com",
+    "status": "pending",
+    "city": "Kochi",
+    "orders": [
+      {
+        "order_id": 111,
+        "product": "External Hard Drive",
+        "amount": 6500,
+        "status": "processing"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Meera",
+    "email": "meera@example.com",
+    "status": "active",
+    "city": "Ahmedabad",
+    "orders": [
+      {
+        "order_id": 112,
+        "product": "Bluetooth Speaker",
+        "amount": 5000,
+        "status": "delivered"
+      }
+    ]
+  }
+]
